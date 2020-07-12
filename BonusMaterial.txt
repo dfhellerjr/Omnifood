@@ -1,0 +1,12 @@
+﻿Bonus Material
+
+Add a map to the site:
+	-- Adding a map to the contact form section
+	   - Use gmaps.js
+	     - download the file to resources/js
+             - add a script reference at the bottom (script area) of the page
+	     - add a script reference to the googlemaps api as well
+	     - from the gmaps.js site page choose examples --> basic
+             - copy/paste code snippet into the scripts.js file
+               -change #map to .map
+	     - style in the ccs/stye.css file (form section)
